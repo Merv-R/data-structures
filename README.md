@@ -1,3 +1,3 @@
 # Data Structures
 
-The fundamentals of programming is being created and tested in Python. There are some fun exercises with solutions for all.
+The fundamentals of programming, tested in Python. Included in the code, are some fun exercises with solutions for all data structures.
