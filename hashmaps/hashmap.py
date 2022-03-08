@@ -2,6 +2,7 @@
 
 # Hash maps are implemented under the hood by python while using dict
 # We make an implementation ourselves to understand how dic in python works
+# The collision handling method used here is Chaining (Linked List) which is implemented using a list of tuples
 
 # Look up time for a value in a hash map is O(1)
 # Insertion/Deletion takes O(n) time
